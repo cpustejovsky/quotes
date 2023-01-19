@@ -8,8 +8,11 @@ The demons once set upon Abba Arsenius in his cell and were afflicting him . Whe
 A brother asked Abba Arsenius if he could hear a saying from him . The elder said to him : ' As much as you are able , strive so that what goes on inside you be godly and you conquer your external passions . ' ~Arsenius 9  
 He also said : ' If we seek for God , he will appear to us and , if we hold him fast , he will remain with us . ' ~Arsenius 10  
 Do, or do not. There is no try. ~Yoda
+'I don't believe it' 'This is why you fail' ~Luke and Yoda
 How wonderful it is that nobody need wait a single moment before beginning to improve the world. ~Anne Frank
 Rule your mind or it will rule you. ~Horace
 Great acts are made up of small deeds. ~Lao Tzu
 Every man must decide whether he will walk in the light of creative altruism or in the darkness of destructive selfishness. ~Martin Luther King Jr.
 An individual has not started living until he can rise above the narrow confines of his individualistic concerns to the broader concerns of all humanity. ~Martin Luther King Jr.
+If it hurts, do it more ~John Hargrave
+Those whoi multitask are doing nothing fast. ~John Hargrave
