@@ -16,3 +16,9 @@ Do you know who you are? Do you know what has happened to your? Do you want to l
 Focus is how you knit the hours of the day together. With focus, the day becomes a beautiful tapestry. Without focus, you end up holding a bundle of loose string.~James Clear 
 You don't need to worry about progressing slowly. You need to worry about climbing the wrong mountain.~James Clear
 If I'm taking action, putting in my reps, and trying things out, then I should remain patient and see what opportunities arise. But if I'm not taking action consistently, then I'm not practicing patience. I'm just waiting.~James Clear
+By far the dominant reason for not releasing sooner was a reluctance to trade the dream of success for the reality of feedback.~Kent Beck
+Compassion eliminates ego.
+The book of nature is written in mathematics.
+The present sucks but it's the only place you can live.
+Lord Jesus Christ, Son of God, have mercy on me, a sinner!
+Pay attention carefully. After the sin comes the shame, courage follows repentance. Did you pay attention to what I said? Satan upsets the order, he gives the courage to sin and the shame to repentance~St. John Chrysostom 
