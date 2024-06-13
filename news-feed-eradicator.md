@@ -1,24 +1,26 @@
-'I wish it need not have happened in my time,' said Frodo. 'So do I,' said Gandalf, 'and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.' ~Tolkien
-Contemplating the depths of God’s judgments, the same Antony inquired: 'Lord, how is it that some die after a short life while others grow very old? Why are some in penury and others affluent? How do the wicked become affluent while the righteous are impoverished? 'A voice came to him that said: 'Antony, pay attention to yourself, for these are the judgments of God and it is not to your advantage for you to learn about them.' ~Antony 2 
-Abba Antony said to Abba Poemen: 'This is the great task of a person: personally to take responsibility for his own shortcoming in the presence of God and to expect temptation until his last breath.' ~Antony 4 
-Abba Pambo asked Abba Antony: 'What am I to do?' The elder said to him: 'Have no confidence in your righteousness; have no regrets about a past action; get control of your tongue and your belly.' ~Antony 6 
-The same [elder] said: 'Always have the fear of God before your eyes. Remember him who gives death and life [1 Sam 2.6]. Hate the world and all that is in it. Hate all physical repose. Renounce this life so you may live for God. Remember what you promised to God, for he will be looking for it from you on the Day of Judgment. Be hungry and thirsty, endure nakedness, keep watch; sorrow, weep, and groan in your hearts. Examine whether you are worthy of God. Despise the flesh in order to save your souls.' ~Antony 33  
-The demons once set upon Abba Arsenius in his cell and were afflicting him. When those who were looking after him came by and were standing outside his cell, they heard him crying out to God, saying: 'O God, do not abandon me! I have done no good thing in your sight but, of your kindness, grant me to make a start.' ~Arsenius 3  
-A brother asked Abba Arsenius if he could hear a saying from him. The elder said to him: 'As much as you are able, strive so that what goes on inside you be godly and you conquer your external passions.' ~Arsenius 9  
-He also said: 'If we seek for God, he will appear to us and, if we hold him fast, he will remain with us.' ~Arsenius 10  
-Rule your mind or it will rule you. ~Horace
-Great acts are made up of small deeds. ~Lao Tzu
-Those who multitask are doing nothing fast. ~John Hargrave
-When nothing seems to help, I go and look at a stonecutter hammering away at his rock, perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that last blow that did it--but all that had gone before ~Jacob Riis
-a mind needs books as a sword needs a whetstone, if it is to keep its edge. ~Tyrion Lannister
-Do you know who you are? Do you know what has happened to your? Do you want to live this way? ~Cristina Yang
-[R]apidity doesn't have a precise relation to intelligence. What is important is to deeply understand things and their relations to each other. This is where intelligence lies. The fact of being quick or slow isn't really relevant. Naturally, it's helpful to be quick, like it is to have a good memory. But it's neither necessary nor sufficient for intellectual success. ~Laurent Schwartz, French Mathematician
+'I wish it need not have happened in my time,' said Frodo. 'So do I,' said Gandalf, 'and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.'~Tolkien
+Contemplating the depths of God’s judgments, the same Antony inquired: 'Lord, how is it that some die after a short life while others grow very old? Why are some in penury and others affluent? How do the wicked become affluent while the righteous are impoverished? 'A voice came to him that said: 'Antony, pay attention to yourself, for these are the judgments of God and it is not to your advantage for you to learn about them.'~Antony 2 
+Abba Antony said to Abba Poemen: 'This is the great task of a person: personally to take responsibility for his own shortcoming in the presence of God and to expect temptation until his last breath.'~Antony 4 
+Abba Pambo asked Abba Antony: 'What am I to do?' The elder said to him: 'Have no confidence in your righteousness; have no regrets about a past action; get control of your tongue and your belly.'~Antony 6 
+The same [elder] said: 'Always have the fear of God before your eyes. Remember him who gives death and life [1 Sam 2.6]. Hate the world and all that is in it. Hate all physical repose. Renounce this life so you may live for God. Remember what you promised to God, for he will be looking for it from you on the Day of Judgment. Be hungry and thirsty, endure nakedness, keep watch; sorrow, weep, and groan in your hearts. Examine whether you are worthy of God. Despise the flesh in order to save your souls.'~Antony 33  
+The demons once set upon Abba Arsenius in his cell and were afflicting him. When those who were looking after him came by and were standing outside his cell, they heard him crying out to God, saying: 'O God, do not abandon me! I have done no good thing in your sight but, of your kindness, grant me to make a start.'~Arsenius 3  
+A brother asked Abba Arsenius if he could hear a saying from him. The elder said to him: 'As much as you are able, strive so that what goes on inside you be godly and you conquer your external passions.'~Arsenius 9  
+He also said: 'If we seek for God, he will appear to us and, if we hold him fast, he will remain with us.'~Arsenius 10  
+Rule your mind or it will rule you.~Horace
+Great acts are made up of small deeds.~Lao Tzu
+Those who multitask are doing nothing fast.~John Hargrave
+When nothing seems to help, I go and look at a stonecutter hammering away at his rock, perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that last blow that did it--but all that had gone before~Jacob Riis
+a mind needs books as a sword needs a whetstone, if it is to keep its edge.~Tyrion Lannister
+Do you know who you are? Do you know what has happened to your? Do you want to live this way?~Cristina Yang
+[R]apidity doesn't have a precise relation to intelligence. What is important is to deeply understand things and their relations to each other. This is where intelligence lies. The fact of being quick or slow isn't really relevant. Naturally, it's helpful to be quick, like it is to have a good memory. But it's neither necessary nor sufficient for intellectual success.~Laurent Schwartz, French Mathematician
 Focus is how you knit the hours of the day together. With focus, the day becomes a beautiful tapestry. Without focus, you end up holding a bundle of loose string.~James Clear 
 You don't need to worry about progressing slowly. You need to worry about climbing the wrong mountain.~James Clear
 If I'm taking action, putting in my reps, and trying things out, then I should remain patient and see what opportunities arise. But if I'm not taking action consistently, then I'm not practicing patience. I'm just waiting.~James Clear
 By far the dominant reason for not releasing sooner was a reluctance to trade the dream of success for the reality of feedback.~Kent Beck
-Compassion eliminates ego.
-The book of nature is written in mathematics.
-The present sucks but it's the only place you can live.
-Lord Jesus Christ, Son of God, have mercy on me, a sinner!
+Compassion eliminates ego.~Unknown
+The book of nature is written in mathematics.~Fracis Bacon
+The present sucks but it's the only place you can live.~Dr. K
+Lord Jesus Christ, Son of God, have mercy on me, a sinner!~Jesus Prayer
 Pay attention carefully. After the sin comes the shame, courage follows repentance. Did you pay attention to what I said? Satan upsets the order, he gives the courage to sin and the shame to repentance~St. John Chrysostom 
+You can ignore your weaknesses, but you can't expect them to not impact you. The weakness of the coach shapes the players. The weakness of the teacher influences the students. The weakness of the parent molds the child.~James Clear
+Don't wait to start writing until you have something to say. Start writing so you can find out what you have to say. Your first idea is rarely your best idea. It can take a lot of reps before you discover something worth keeping.~James Clear
