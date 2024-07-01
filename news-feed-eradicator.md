@@ -24,3 +24,10 @@ Lord Jesus Christ, Son of God, have mercy on me, a sinner!~Jesus Prayer
 Pay attention carefully. After the sin comes the shame, courage follows repentance. Did you pay attention to what I said? Satan upsets the order, he gives the courage to sin and the shame to repentance~St. John Chrysostom 
 You can ignore your weaknesses, but you can't expect them to not impact you. The weakness of the coach shapes the players. The weakness of the teacher influences the students. The weakness of the parent molds the child.~James Clear
 Don't wait to start writing until you have something to say. Start writing so you can find out what you have to say. Your first idea is rarely your best idea. It can take a lot of reps before you discover something worth keeping.~James Clear
+Stay Still~Misery Maximization Maxim
+Screw with Your Sleep~Misery Maximization Maxim
+Maximize Screen-time~Misery Maximization Maxim
+Stoke negative feelings~Misery Maximization Maxim
+Have VAPID (Vague, Amorphous, Pie in the Sky, Irrelevant, Delayed) Goals~Misery Maximization Maxim
+Pursue Happiness Directly~Misery Maximization Maxim
+Follow Your Instincts~Misery Maximization Maxim
