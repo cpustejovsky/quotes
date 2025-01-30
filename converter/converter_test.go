@@ -1,12 +1,13 @@
 package converter_test
 
 import (
-	"github.com/cpustejovsky/quotes/converter"
 	"testing"
+
+	"github.com/cpustejovsky/quotes/converter"
 )
 
 func TestConvertQuotes(t *testing.T) {
-	converted, err := converter.ConvertQuotes("/home/cpustejovsky/go/src/quotes/news-feed-eradicator.md")
+	converted, err := converter.ConvertQuotes("/home/cpustejovsky/development/go/quotes/news-feed-eradicator.txt")
 	if err != nil {
 		t.Fatal(err)
 	}

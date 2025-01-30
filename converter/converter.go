@@ -9,10 +9,10 @@ type Quote struct {
 	Attribution string
 }
 
-func ConvertQuotes(path string) (string, error) {
+func ConvertQuotes(path string) ([]string, error) {
 	dat, err := os.ReadFile(path)
 	if err != nil {
-		return "", err
+		return nil, err
 	}
 	var quotes []Quote
 	var q Quote
@@ -34,9 +34,9 @@ func ConvertQuotes(path string) (string, error) {
 			q.Text += string(char)
 		}
 	}
-	var converted string
+	var converted []string
 	for _, quote := range quotes {
-		converted += "\"" + quote.Text + "\"\n-" + quote.Attribution + "\n"
+		converted = append(converted, "\""+quote.Text+"\"\n-"+quote.Attribution+"\n")
 	}
 	return converted, nil
 }
