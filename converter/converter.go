@@ -1,19 +1,11 @@
 package converter
 
-import (
-	"os"
-)
-
 type Quote struct {
 	Text        string
 	Attribution string
 }
 
-func ConvertQuotes(path string) ([]string, error) {
-	dat, err := os.ReadFile(path)
-	if err != nil {
-		return nil, err
-	}
+func ConvertQuotes(dat string) ([]string, error) {
 	var quotes []Quote
 	var q Quote
 	var attributionNeed bool
